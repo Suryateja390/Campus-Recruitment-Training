@@ -2,7 +2,7 @@
 
 #Rotates the array by k positions to the right.
 
-Code
+# Code
 s = [1,2,3,4,5]
 k = 1
 
