@@ -2,7 +2,7 @@
 
 #Changing nested elements affects both original and copied list in shallow copy.
 
-Code
+#Code
 s = [1, 2, [300, 300], [20, 30]]
 s2 = s[:]
 
