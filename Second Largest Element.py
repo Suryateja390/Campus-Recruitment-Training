@@ -2,7 +2,7 @@
 
 #Finds the second largest element in a list.
 
-Code
+# Code
 s = [1, 2, 3, 4, 3, 2, 4, 5]
 
 first = second = float('-inf')
