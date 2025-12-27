@@ -22,3 +22,26 @@ for num in s:
     print(f"Hash Value: {hash_value}")
     print(f"Mapped Index (hash % {len(s)}): {index_position}")
     print("-" * 40)
+
+Set: {1, 4, 10, 25, 67}
+Size: 5
+
+Number: 1
+Hash: 1
+Index: 1
+
+Number: 4
+Hash: 4
+Index: 4
+
+Number: 10
+Hash: 10
+Index: 0
+
+Number: 25
+Hash: 25
+Index: 0
+
+Number: 67
+Hash: 67
+Index: 2
