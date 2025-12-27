@@ -2,7 +2,7 @@
 
 #Finds the missing number from range 1..n.
 
-Code
+# Code
 s = [1,3,4,5]
 n = 5
 
